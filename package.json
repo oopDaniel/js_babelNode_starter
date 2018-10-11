@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A simple base repo to start any node project",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
   "devDependencies": {
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
